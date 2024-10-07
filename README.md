@@ -22,17 +22,9 @@ This repository includes solutions to multiple predictive analytics problems, or
 5. **Centroid_Clustering.xlsx**:
    - **Description**: This sheet focuses on **centroid-based clustering** using distance metrics to assign data points to different clusters. The distances to centroids (`A` and `B`) are calculated, and cluster assignments are made accordingly.
 
-## Topics Covered
-- **Decision Tree Analysis**: Calculating Gini Index for various split points.
-- **Clustering**: Using normalized data for cluster assignments and centroid analysis.
-- **K-Nearest Neighbors (KNN)**: Predictive modeling using KNN for classification.
-- **Logistic Regression**: Implementing logistic regression for binary classification.
-- **Centroid Analysis**: Assigning data points to clusters based on distance calculations.
 
 ## Tools Used
-- **Microsoft Excel**: All solutions were calculated and documented using Excel for easy visualization and analysis.
+- **Microsoft Excel**: All solutions were calculated and documented using Excel.
 
-## Purpose of the Repository
-This repository serves as a portfolio to demonstrate my expertise in predictive analytics techniques and to share my problem-solving skills with others interested in data science and analytics. The solutions are designed to be educational for those looking to understand practical approaches to solving analytics problems.
 
 

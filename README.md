@@ -1,4 +1,4 @@
-# Predictive Analytics Final Solutions
+# Predictive Analytics 
 
 Welcome to my repository containing the solved problems from my **Predictive Analytics**. This collection provides insights into various predictive analytics techniques using real-world problem-solving scenarios.
 
